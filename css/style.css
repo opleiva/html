@@ -214,15 +214,22 @@ button {
 .banner_bg_main {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/BHome.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
+.img-fluid {
+    width: 100%;
+    float: left;
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /* banner bg main end */
-
 
 /* header top section start */
 
